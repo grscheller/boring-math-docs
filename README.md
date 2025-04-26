@@ -1,7 +1,7 @@
 # Boring Math Library Redirection Repo
 
 The purpose of this "zombie repo" is to redirect past Boring Math (bm)
-documentation links in prior PyPI release to the currently maintained
+links in prior PyPI releases to the currently maintained documentation
 location.
 
 Current location
